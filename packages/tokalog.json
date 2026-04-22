@@ -1,8 +1,8 @@
 {
   "name": "tokalog",
   "versions": {
-    "1.2.0": {
-      "tarball": "https://github.com/tokalang/tokalog/archive/refs/tags/v1.2.0.tar.gz",
+    "1.2.1": {
+      "tarball": "https://github.com/tokalang/tokalog/archive/refs/tags/v1.2.1.tar.gz",
       "shasum": "dummy-sha256-hash-here"
     }
   }
